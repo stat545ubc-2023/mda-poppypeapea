@@ -6,7 +6,7 @@ This repository contains files related to Xiangwen Li's mini data analysis proje
 
 ## Files in the GitHub Repository:
 1. **README.md**: This file provides an overview of the project.
-2. **Mini Data-Analysis.Rmd**: An R Markdown file containing the code and narrative for the data analysis.
-3. **Mini Data-Analysis.md**: The rendered Markdown file with the results of the data analysis.
+2. **mini-data-analysis-1.**: An R Markdown file containing the code and narrative for the data analysis.
+3. **mini-data-analysis-1.**: The rendered Markdown file with the results of the data analysis.
 
 Feel free to explore the contents of this repository to gain insights into the analysis conducted on the 'flow_sample' dataset.
